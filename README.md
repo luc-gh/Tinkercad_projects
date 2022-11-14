@@ -24,7 +24,7 @@ Alguns projetos básicos com compenentes eletrônicos e/ou Arduino (em C++), pro
 **Pisca LED Duplo**
   > Dois LEDs piscando em circuito com Protoboard.
   >
-  > Código: [```Pisca LED Duplo```](https://github.com/luc-gh/Tinkercad_projects/blob/main/Pisca%20LED%20Duplo/Pisca%20LED%20Duplo.cpp)
+  > Código: [```Pisca LED Duplo.cpp```](https://github.com/luc-gh/Tinkercad_projects/blob/main/Pisca%20LED%20Duplo/Pisca%20LED%20Duplo.cpp)
   >
   > [Veja no Tinkercad](https://www.tinkercad.com/things/93upY7KLLRy?sharecode=NeviGZDOtX9Ft-mI0uc2O6t5KclQeS6nxZY0usV2hnc)
   >
